@@ -6,6 +6,7 @@ Release:	1
 License:	GPL
 Group:		X11/Applications
 Source0:	http://www.devhelp.net/books/books/glib-1.2.tar.gz
+# Source0-md5:	926ae606284b1e2aba25b965ea54045e
 URL:		http://www.devhelp.net/
 Requires:	devhelp
 BuildArch:	noarch
