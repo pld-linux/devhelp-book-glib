@@ -1,5 +1,5 @@
 Summary:	DevHelp book: glib 1.2
-Summary(pl):	Ksi±¿ka do DevHelpa o glibie 1.2
+Summary(pl.UTF-8):   KsiÄ…Å¼ka do DevHelpa o glibie 1.2
 Name:		devhelp-book-glib
 Version:	1.2
 Release:	1
@@ -18,8 +18,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 DevHelp book about glib 1.2.
 
-%description -l pl
-Ksi±¿ka do DevHelpa o glibie 1.2.
+%description -l pl.UTF-8
+KsiÄ…Å¼ka do DevHelpa o glibie 1.2.
 
 %prep
 %setup -q -c -n glib-%{version}
