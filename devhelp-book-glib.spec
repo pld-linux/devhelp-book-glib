@@ -1,5 +1,5 @@
 Summary:	DevHelp book: glib 1.2
-Summary(pl.UTF-8):   Książka do DevHelpa o glibie 1.2
+Summary(pl.UTF-8):	Książka do DevHelpa o glibie 1.2
 Name:		devhelp-book-glib
 Version:	1.2
 Release:	1
